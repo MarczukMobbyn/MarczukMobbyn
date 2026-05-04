@@ -17,5 +17,5 @@ Projects developed during the "Effective Programming Techniques" coursework.
 * [LCVRP Genetic Algorithm](https://github.com/MarczukMobbyn/LCVRP-Genetic-Algorithm) - Metaheuristic solver for the Line-haul Capacitated Vehicle Routing Problem.
 * [Operator overloading](https://github.com/MarczukMobbyn/operator-overloading.git) - Object-oriented C++ project focusing on operator overloading
 
-## Links
-[itch.io No Snake Maze](https://simonklamka.itch.io/no-snake-maze)
+## External Links
+[No Snake Maze - itch.io](https://simonklamka.itch.io/no-snake-maze)
