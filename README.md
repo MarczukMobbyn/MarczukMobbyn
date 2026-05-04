@@ -12,3 +12,4 @@ Projects developed during the "Effective Programming Techniques" coursework.
 
 ## Personal Projects
 * [Galaxy Strike](https://github.com/MarczukMobbyn/Galaxy-Strike.git) - Rail-based precision space shooter. Made using Timeline tool in Unity.
+* [Falcon Light](https://github.com/MarczukMobbyn/Falcon-Light.git) - A physics-based 3D arcade game, where player controls rocket while dodging obstacles.
