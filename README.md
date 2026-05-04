@@ -3,6 +3,7 @@
 Welcome to my GitHub profile. Below you will find a categorized list of my projects, ranging from academic coursework to personal development.
 
 ## Personal Projects
+* [No Snake Maze](https://github.com/MarczukMobbyn/No-Snake-Maze.git) - A retro-style horror game featuring procedural maze generation, NavMesh-driven AI, and immersive spatial audio.
 * [Great Shooter](https://github.com/MarczukMobbyn/Great-Shooter.git) - An action-focused FPS featuring multiple distinct weapons, classic ammo collection, and dynamic enemy encounters.
 * [Royal Run](https://github.com/MarczukMobbyn/Royal-Run.git) - A 3D endless runner featuring dynamic track generation and continuous obstacle avoidance in Unity.
 * [Galaxy Strike](https://github.com/MarczukMobbyn/Galaxy-Strike.git) - A rail-based precision space shooter. Made using Timeline tool in Unity.
