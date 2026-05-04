@@ -1,4 +1,4 @@
-# [Szymon Marczuk] - Portfolio
+# Szymon Marczuk - Portfolio
 
 Welcome to my GitHub profile. Below you will find a categorized list of my projects, ranging from academic coursework to personal development.
 
@@ -11,5 +11,4 @@ Projects developed during the "Effective Programming Techniques" coursework.
 * [Operator overloading](https://github.com/MarczukMobbyn/operator-overloading.git) - Object-oriented C++ project focusing on operator overloading
 
 ## Personal Projects
-* [Project Name](Link) - Short description.
-* [Project Name](Link) - Short description.
+* [Galaxy Strike](https://github.com/MarczukMobbyn/Galaxy-Strike.git) - Rail-based precision space shooter. Made using Timeline tool in Unity.
