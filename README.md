@@ -9,6 +9,9 @@ Welcome to my GitHub profile. Below you will find a categorized list of my proje
 * [Galaxy Strike](https://github.com/MarczukMobbyn/Galaxy-Strike.git) - A rail-based precision space shooter. Made using Timeline tool in Unity.
 * [Falcon Light](https://github.com/MarczukMobbyn/Falcon-Light.git) - A physics-based 3D arcade game, where player controls rocket while dodging obstacles in Unity.
 
+## Links
+[itch.io No Snake Maze](https://simonklamka.itch.io/no-snake-maze)
+
 ## University Projects 
 
 ### C++ (TEP - Effective Programming Techniques)
