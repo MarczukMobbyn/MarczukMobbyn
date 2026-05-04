@@ -3,9 +3,9 @@
 Welcome to my GitHub profile. Below you will find a categorized list of my projects, ranging from academic coursework to personal development.
 
 ## Personal Projects
-* [Royal Run](https://github.com/MarczukMobbyn/Royal-Run.git) - A 3D endless runner featuring dynamic track generation and continuous obstacle avoidance.
+* [Royal Run](https://github.com/MarczukMobbyn/Royal-Run.git) - A 3D endless runner featuring dynamic track generation and continuous obstacle avoidance in Unity.
 * [Galaxy Strike](https://github.com/MarczukMobbyn/Galaxy-Strike.git) - Rail-based precision space shooter. Made using Timeline tool in Unity.
-* [Falcon Light](https://github.com/MarczukMobbyn/Falcon-Light.git) - A physics-based 3D arcade game, where player controls rocket while dodging obstacles.
+* [Falcon Light](https://github.com/MarczukMobbyn/Falcon-Light.git) - A physics-based 3D arcade game, where player controls rocket while dodging obstacles in Unity.
 
 ## University Projects 
 
