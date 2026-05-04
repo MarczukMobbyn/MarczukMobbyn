@@ -1,16 +1,14 @@
-## Hi there 👋
+# [Szymon Marczuk] - Portfolio
 
-<!--
-**MarczukMobbyn/MarczukMobbyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile. Below you will find a categorized list of my projects, ranging from academic coursework to personal development.
 
-Here are some ideas to get you started:
+## University Projects 
+(C++ / TEP)
+Projects developed during the "Effective Programming Techniques" coursework.
+* [Advanced Math Expression Tree](https://github.com/MarczukMobbyn/AdvancedMathExpressionTree) - AST parser with custom memory management and Result-type error handling.
+* [LCVRP Genetic Algorithm](https://github.com/MarczukMobbyn/LCVRP-Genetic-Algorithm) - Metaheuristic solver for the Line-haul Capacitated Vehicle Routing Problem.
+* [Operator overloading](https://github.com/MarczukMobbyn/operator-overloading.git) - Object-oriented C++ project focusing on operator overloading
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Personal Projects
+* [Project Name](Link) - Short description.
+* [Project Name](Link) - Short description.
