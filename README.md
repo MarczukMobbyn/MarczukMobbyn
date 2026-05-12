@@ -28,9 +28,13 @@ Welcome to my GitHub profile! Below you will find a categorized list of my proje
 
 ### ⚙️ C++ (TEP - Effective Programming Techniques)
 Projects developed during the "Effective Programming Techniques" coursework.
-* 🌳 [Advanced Math Expression Tree](https://github.com/MarczukMobbyn/AdvancedMathExpressionTree) - AST parser with custom memory management and Result-type error handling.
 * 🧬 [LCVRP Genetic Algorithm](https://github.com/MarczukMobbyn/LCVRP-Genetic-Algorithm) - Metaheuristic solver for the Line-haul Capacitated Vehicle Routing Problem.
+* 🌳 [Advanced Math Expression Tree](https://github.com/MarczukMobbyn/AdvancedMathExpressionTree) - AST parser with custom memory management and Result-type error handling.
 * ➕ [Operator overloading](https://github.com/MarczukMobbyn/operator-overloading.git) - Object-oriented C++ project focusing on operator overloading.
+
+### ☕ Java (AiSD - Algorithms and Data Structures)
+Projects developed during the "Algorithms and Data Structures" coursework.
+* 📚 [Java Algorithms and Data Structures](https://github.com/MarczukMobbyn/Java-Algorithms-and-Data-Structures.git) - A comprehensive monorepo featuring custom, from-scratch implementations of advanced data structures (BST, LCRS Trie, Binomial Heaps, custom Linked Lists) and sorting algorithms with a performance benchmarking framework.
 
 ---
 
