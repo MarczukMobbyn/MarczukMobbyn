@@ -1,6 +1,6 @@
-# 👨‍💻 Szymon Marczuk - Portfolio
+# Szymon Marczuk - Portfolio
 
-Welcome to my GitHub profile! 👋 Below you will find a categorized list of my projects, ranging from academic coursework to personal development.
+Welcome to my GitHub profile! Below you will find a categorized list of my projects, ranging from academic coursework to personal development.
 
 ## 💻 Tech Stack:
 
