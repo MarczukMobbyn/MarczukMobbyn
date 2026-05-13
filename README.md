@@ -22,7 +22,7 @@ Welcome to my GitHub profile! Below you will find a categorized list of my proje
 * 🏃‍♂️ [Royal Run](https://github.com/MarczukMobbyn/Royal-Run.git) - A 3D endless runner featuring dynamic track generation and continuous obstacle avoidance in Unity.
 * 🌌 [Galaxy Strike](https://github.com/MarczukMobbyn/Galaxy-Strike.git) - A rail-based precision space shooter. Made using Timeline tool in Unity.
 * 🚀 [Falcon Light](https://github.com/MarczukMobbyn/Falcon-Light.git) - A physics-based 3D arcade game, where player controls rocket while dodging obstacles in Unity.
-
+* 💥 [2D Shooter](https://github.com/MarczukMobbyn/2DShooter.git) - A dynamic 2D pixel-art platformer featuring highly optimized projectile Object Pooling and a modular, Scriptable Object-based Audio Manager.
 ---
 
 ## 🎓 University Projects 
