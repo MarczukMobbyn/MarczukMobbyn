@@ -36,6 +36,7 @@ Projects developed during the "Effective Programming Techniques" coursework.
 ### ☕ Java (AiSD - Algorithms and Data Structures)
 Projects developed during the "Algorithms and Data Structures" coursework.
 * 📚 [Java Algorithms and Data Structures](https://github.com/MarczukMobbyn/Java-Algorithms-and-Data-Structures.git) - A comprehensive monorepo featuring custom, from-scratch implementations of advanced data structures (BST, LCRS Trie, Binomial Heaps, custom Linked Lists) and sorting algorithms with a performance benchmarking framework.
+* 🖥️ [Operating Systems Monorepo](https://github.com/MarczukMobbyn/OperatingSystems) - A comprehensive monorepo featuring Java simulations of core operating system mechanisms: CPU scheduling (FCFS, SJF, SRTF, RR), disk scheduling (SCAN, EDF, FD-SCAN), page replacement algorithms (FIFO, LRU, OPT, Second Chance), multi-process frame allocation (PFF, Working Set), and distributed load balancing with active work stealing.
 
 ---
 
