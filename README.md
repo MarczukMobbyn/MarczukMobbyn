@@ -42,6 +42,10 @@ Projects developed during the "Algorithms and Data Structures" coursework.
 Projects developed during the "Systems and Decision-Making Methods" coursework.
 * ⚕️ [Diabetes Risk: Fuzzy vs ML](https://github.com/MarczukMobbyn/diabetes-risk-fuzzy-vs-ml) - A comparative analysis of Fuzzy Logic expert systems (scikit-fuzzy) and Machine Learning models (scikit-learn) for predicting diabetes risk based on medical data.
 
+### 📜 Python (Scripting Languages)
+Projects developed during the "Scripting Languages" coursework.
+* 📜 [Python Course Monorepo](https://github.com/MarczukMobbyn/python-course-monorepo) - A comprehensive monorepo containing solutions for the Scripting Languages course, covering advanced Python concepts such as OOP, functional programming, CLI tools, regex, GUI design, and database ORM.
+
 ---
 
 ## 🔗 External Links
